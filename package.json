@@ -39,5 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "homepage": "https://andhdo.github.io/c_platzi-03_REACT-53a_ReactComoAprender/"
 }
